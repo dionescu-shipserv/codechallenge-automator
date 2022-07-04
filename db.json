@@ -12,7 +12,9 @@
     },
     {
       "id": 3,
-      "subscriptions": []
+      "subscriptions": [
+        { "code": "AUTOMATION", "state": true }  
+      ]
     }
   ],
   "users": [
