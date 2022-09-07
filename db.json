@@ -6,9 +6,7 @@
     },
     {
       "id": 2,
-      "subscriptions": [
-        { "code": "AUTOMATION", "state": true }  
-      ]
+      "subscriptions": []
     },
     {
       "id": 3,
